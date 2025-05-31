@@ -1,2 +1,2 @@
-# Moving-Average-Crossover-Strategy
-Determines a 20-day mean adjusted stock close price, buying when the price is below and selling when above
+# Momentum SMA
+Determines a 5-day mean adjusted bond close price, trades within a 3% band of tolerance.
